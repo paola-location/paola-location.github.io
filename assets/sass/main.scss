@@ -1564,6 +1564,10 @@ $size-header-pad: 4em;
 				h1 {
 					font-size: 1.35em;
 				}
+
+				.image.avatar {
+					visibility: hidden;
+				}
 			}
 
 		/* Footer */
@@ -1613,6 +1617,10 @@ $size-header-pad: 4em;
 					br {
 						display: none;
 					}
+				}
+
+				.image.avatar {
+					visibility: hidden;
 				}
 			}
 

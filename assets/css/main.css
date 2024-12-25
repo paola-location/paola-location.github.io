@@ -2585,6 +2585,9 @@ body.is-touch .poptrox-popup .closer {
   #header h1 {
     font-size: 1.35em;
   }
+  #header .image.avatar {
+    visibility: hidden;
+  }
   /* Footer */
   #footer {
     padding: 2.25em 1.5em;
@@ -2614,6 +2617,9 @@ body.is-touch .poptrox-popup .closer {
   }
   #header h1 br {
     display: none;
+  }
+  #header .image.avatar {
+    visibility: hidden;
   }
   /* Footer */
   #footer .copyright li {
